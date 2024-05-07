@@ -12,11 +12,11 @@ const About = () => {
       </div>
       <div>
         <p className="mb-4 text-justify">
-          Hey there! I'm Aradhya Garg, a dynamic full-stack developer who thrives on building captivating, user-centric web applications. My journey blends a keen eye for design with robust development skills, resulting in seamless user experiences.
+          Hey there! I am Aradhya Garg, a dynamic full-stack developer who thrives on building captivating, user-centric web applications. My journey blends a keen eye for design with robust development skills, resulting in seamless user experiences.
 
-          Beyond my professional endeavors, I've delved into a plethora of freelance and personal projects, each a testament to my prowess in web development. From concept to execution.
+          Beyond my professional endeavors, I have delved into a plethora of freelance and personal projects, each a testament to my prowess in web development. From concept to execution.
 
-          Let's collaborate and bring my digital vision to life with innovation and finesse.
+          Lets collaborate and bring my digital vision to life with innovation and finesse.
         </p>
         <p className="mb-4 text-justify">
           I also like sharing content in{" "}
@@ -36,7 +36,7 @@ const About = () => {
           </b>{" "}
         </p>
         <p className="mb-4 text-justify">
-        Got an idea that's ready to take flight?{" "}<br></br>
+        Got an idea thats ready to take flight?{" "}<br></br>
           <a
             className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
             href="mailto:aradhya.gargag89@gmail.com"
