@@ -12,13 +12,13 @@ import {
 const Header = () => {
 
   const PhoneStyles = {
-    marginTop: '15px',
+    marginTop: '5px',
     marginBottom: '10px',
   };
 
   return (
     <>
-      <header className="lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-1/2 lg:flex-col lg:justify-between lg:py-16">
+      <header className="lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-1/2 lg:flex-col lg:justify-between lg:py-6">
         <div>
           <h1 className="text-4xl font-bold tracking-tight text-slate-200 sm:text-5xl">
             <Link
@@ -38,7 +38,7 @@ const Header = () => {
             I have completed my BE in Computer Science and am currently working as a Graduate Trainee with the designation of Assistant Manager at Jio Platforms Limited. I have a strong passion for developing scalable web applications and working across the MERN stack. I continuously strive to upgrade my skills by learning new technologies. I am eager to grow further in the tech industry by gaining valuable experience and contributing meaningfully to organizational success.
           </p>
 
-          <div className="mt-3 max-w-xs flex">
+          <div className="mt-2 max-w-xs flex">
             <a
               className="flex items-center rounded uppercase bg-teal-300 px-4 py-2 text-xs text-teal-900 hover:text-teal-100 hover:bg-teal-400/10 font-medium"
               aria-label="View Full Resume"
@@ -65,7 +65,7 @@ const Header = () => {
             </a>
           </div>
           <nav className="nav hidden lg:block" aria-label="In-page jump links">
-            <ul className="mt-12 w-max">
+            <ul className="mt-4 w-max">
               <li>
                 <Link
                   activeClass="active"
