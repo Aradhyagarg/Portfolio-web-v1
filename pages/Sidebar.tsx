@@ -35,7 +35,7 @@ const Header = () => {
             Software Engineer
           </h2>
           <p className="mt-2 lg:max-w-sm leading-relaxed text-justify">
-            I am pursuing my BE Cse with a passion for developing scalable web applications and working across the mern stack. I love to upgrade my existing skills by continuously learning new technologies. I am eager to join tech companies to further enhance my skills, gain valuable experience, and contribute to the success of the organization.
+            I have completed my BE in Computer Science and am currently working as a Graduate Trainee with the designation of Assistant Manager at Jio Platforms Limited. I have a strong passion for developing scalable web applications and working across the MERN stack. I continuously strive to upgrade my skills by learning new technologies. I am eager to grow further in the tech industry by gaining valuable experience and contributing meaningfully to organizational success.
           </p>
 
           <div className="mt-3 max-w-xs flex">
