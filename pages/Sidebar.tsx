@@ -42,7 +42,7 @@ const Header = () => {
             <a
               className="flex items-center rounded uppercase bg-teal-300 px-4 py-2 text-xs text-teal-900 hover:text-teal-100 hover:bg-teal-400/10 font-medium"
               aria-label="View Full Resume"
-              href="/resume/Aradhya_Garg_resume.pdf"
+              href="/resume/Aradhya_Garg_resume.pdf.pdf"
               target="_blank"
             >
               <svg

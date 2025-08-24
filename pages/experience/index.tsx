@@ -156,15 +156,27 @@ const Experience = () => {
                     </div>
                   </h3>
                   <div className="mt-2 text-sm leading-normal text-justify">
-                    Contributed to Netmeds CRM development by implementing user stories, workflows, and ticketing features to improve customer support. 
-                    Developed CRM features mass case uploads, callback prioritization, stale ticket auto-closure, default ticket views, agent performance reporting, & email-based case reassignment with auto-responses & threaded communication. 
-                    Resolved Fortify vulnerabilities, strengthening application security and ensuring compliance. Built smart ticket assignment and reassignment logic with escalation handling and capacity-based distribution. 
-                    Enabled ticket creation via App, Email, and third-party services with seamless API integration.
+                    Contributed to CRM projects including Netmeds and Campa-Cola, driving architecture, execution, and delivery.
+                    Developed ticketing workflows via App, Email, and third-party platforms with RESTful API integrations.
+                    Built smart ticket assignment and reassignment with escalation handling and capacity-based distribution.
+                    Supported production issue resolution, performance monitoring, and post-deployment stability.
+                    Participated in Agile processes such as sprint planning, code reviews, and release management.
+                    Resolved Fortify vulnerabilities, strengthening security and ensuring compliance.
                   </div>
                   <ul
                     className="mt-2 flex flex-wrap"
                     aria-label="Technologies used"
                   >
+                    <li className="mr-1.5 mt-2">
+                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                        ReactJs
+                      </div>
+                    </li>
+                    <li className="mr-1.5 mt-2">
+                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                        NodeJs
+                      </div>
+                    </li>
                     <li className="mr-1.5 mt-2">
                       <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
                         PHP
