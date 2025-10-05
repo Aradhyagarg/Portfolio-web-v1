@@ -32,7 +32,7 @@ const Header = () => {
             </Link>
           </h1>
           <h2 className="mt-3 text-lg font-medium tracking-tight text-slate-200 sm:text-xl">
-            Software Engineer
+            Software Developer
           </h2>
           <p className="mt-2 lg:max-w-sm leading-relaxed text-justify">
             I have completed my BE in Computer Science and am currently working as a Graduate Trainee with the designation of Assistant Manager at Jio Platforms Limited. I have a strong passion for developing scalable web applications and working across the MERN stack. I continuously strive to upgrade my skills by learning new technologies. I am eager to grow further in the tech industry by gaining valuable experience and contributing meaningfully to organizational success.
@@ -42,7 +42,7 @@ const Header = () => {
             <a
               className="flex items-center rounded uppercase bg-teal-300 px-4 py-2 text-xs text-teal-900 hover:text-teal-100 hover:bg-teal-400/10 font-medium"
               aria-label="View Full Resume"
-              href="/resume/Aradhya_Garg_resume.pdf.pdf"
+              href="/resume/Resume.pdf"
               target="_blank"
             >
               <svg
