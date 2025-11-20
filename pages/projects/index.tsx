@@ -22,7 +22,7 @@ const Project = () => {
                   <h3>
                     <a
                       className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base"
-                      href="https://flixcourses.vercel.app/"
+                      href="https://visora-eight.vercel.app/"
                       target="_blank"
                       rel="noreferrer"
                       aria-label="Apex4u"
