@@ -27,7 +27,7 @@ const Experience = () => {
                     <div>
                       <a
                         className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base"
-                        href="https://www.siemens-advanta.com/"
+                        href="https://www.yatra.com/"
                         target="_blank"
                         rel="noreferrer"
                         aria-label="Software Engineer at Astha IT"
@@ -132,7 +132,7 @@ const Experience = () => {
                     <div>
                       <a
                         className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base"
-                        href="https://www.siemens-advanta.com/"
+                        href="https://www.jio.com/platforms/about-us/"
                         target="_blank"
                         rel="noreferrer"
                         aria-label="Software Engineer at Astha IT"
