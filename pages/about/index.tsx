@@ -11,15 +11,17 @@ const About = () => {
         </h2>
       </div>
       <div>
-        <p className="mb-4 text-justify">
+        <p className="mb-4 text-left leading-relaxed">
           Hey there! I am Aradhya Garg, a dynamic full-stack developer who thrives on building captivating, user-centric web applications. My journey blends a keen eye for design with robust development skills, resulting in seamless user experiences.
-
-          Beyond my professional endeavors, I have delved into a plethora of freelance and personal projects, each a testament to my prowess in web development. From concept to execution.
-
-          Lets collaborate and bring my digital vision to life with innovation and finesse.
         </p>
-        <p className="mb-4 text-justify">
-          I also like sharing content in{" "}
+        <p className="mb-4 text-left leading-relaxed">
+          Beyond my professional endeavors, I have delved into a plethora of freelance and personal projects, each a testament to my prowess in web development. From concept to execution.
+        </p>
+        <p className="mb-4 text-left leading-relaxed">
+          Let&apos;s collaborate and bring my digital vision to life with innovation and finesse.
+        </p>
+        <p className="mb-4 text-left">
+          I also like sharing content on{" "}
           <a
             className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
             href="https://www.linkedin.com/in/aradhya-garg-087320224/"
@@ -29,14 +31,14 @@ const About = () => {
             LinkedIn
           </a>{" "}
         </p>
-        <p className="mb-4 text-justify">
+        <p className="mb-4 text-left">
           I&apos;m interested in{" "}
           <b className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300">
             Full-Time
           </b>{" "}
         </p>
-        <p className="mb-4 text-justify">
-        Got an idea thats ready to take flight?{" "}<br></br>
+        <p className="mb-4 text-left">
+          Got an idea that&apos;s ready to take flight?{" "}<br></br>
           <a
             className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
             href="mailto:aradhya.gargag89@gmail.com"

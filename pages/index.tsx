@@ -21,10 +21,11 @@ export default function Home() {
       <Experience />
       <Project />
       <Certifications />
-      <div className="mt-20">
-        A copied design and coded in Visual Studio Code by myself truly. Built
-        with NextJs and Tailwind CSS, deployed with Vercel.
-      </div>
+      <footer className="mt-24 pb-16 text-sm sm:text-base text-slate-400 leading-relaxed max-w-md">
+        <p>
+          Designed &amp; coded by <span className="text-slate-200 font-medium">Aradhya Garg</span>. Built with <span className="text-slate-200 font-medium">Next.js</span> and <span className="text-slate-200 font-medium">Tailwind CSS</span>, deployed with <span className="text-slate-200 font-medium">Vercel</span>.
+        </p>
+      </footer>
     </>
   );
 }

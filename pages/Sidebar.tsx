@@ -33,8 +33,11 @@ const Header = () => {
           <h2 className="mt-3 text-lg font-medium tracking-tight text-slate-200 sm:text-xl">
             Software Developer
           </h2>
-          <p className="mt-4 max-w-md leading-7 text-slate-400 lg:text-left text-justify">
-            I am a Software Developer at Yatra Online Limited with experience in building scalable web applications, enterprise integrations, and configuration-driven platforms. Previously, I worked at Jio Platforms Limited as an Assistant Manager (Graduate Engineer Trainee), contributing to CRM solutions, workflow automation, and API-driven systems. I am passionate about full-stack development, particularly across the MERN stack, and continuously explore new technologies to enhance my technical expertise. My goal is to create impactful software solutions while growing as an engineer and contributing to organizational success.
+          <p className="mt-4 max-w-md leading-relaxed text-slate-400 text-left">
+            I am a Software Developer with 2+ years of experience building scalable backend systems, enterprise integrations, and automation solutions.
+          </p>
+          <p className="mt-3 max-w-md leading-relaxed text-slate-400 text-left">
+            Currently, I work at <span className="text-slate-200 font-medium">Yatra Online Limited</span>, focusing on Java, Spring Boot, Kafka, REST APIs, and distributed systems for enterprise platforms. Previously, I worked at <span className="text-slate-200 font-medium">Jio Platforms Limited</span> on CRM solutions, workflow automation, and API-driven systems, and at <span className="text-slate-200 font-medium">Siemens</span> on industrial automation software.
           </p>
           <div className="mt-2 max-w-xs flex">
             <a

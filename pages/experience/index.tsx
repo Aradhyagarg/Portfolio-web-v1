@@ -55,61 +55,65 @@ const Experience = () => {
                       </a>
                     </div>
                   </h3>
-                  <div className="mt-2 text-sm leading-normal text-justify">
-                    Developed Per Booking Posting Funtionality, consolidating invoice line items into a single API transaction per
-                    booking reference.
-                    Enhanced Generic API Posting Handler with encryption/decryption, bulk posting, and file attachment support.
-                    Implemented automated failure alert notifications and optimized retry mechanisms for enterprise integrations.
-                    Contributed to a configuration-driven portal that enabled feeder management through UI, reducing manual
-                    database updates.
+                  <div className="mt-2 text-sm leading-normal text-left">
+                    Developed Per Booking Posting, consolidating invoice line items into a single API call per booking.
+                    Optimized Kafka consumer processing, reducing redundant API calls by ~85% across 25+ shared-topic consumers.
+                    Built retry logic, alerts, and Kafka DLQ pipelines to enhance fault tolerance and message reliability.
+                    Engineered a config-driven portal for UI-based feeder management, eliminating manual DB updates.
+                    Resolved production bottlenecks across enterprise client integrations to ensure high system availability.
                   </div>
                   <ul
-                    className="mt-2 flex flex-wrap"
+                    className="mt-3 flex flex-wrap"
                     aria-label="Technologies used"
                   >
                     <li className="mr-1.5 mt-2">
-                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                        ReactJs
+                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300">
+                        React.js
                       </div>
                     </li>
                     <li className="mr-1.5 mt-2">
-                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                        NodeJs
+                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300">
+                        Node.js
                       </div>
                     </li>
                     <li className="mr-1.5 mt-2">
-                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300">
                         Java
                       </div>
                     </li>
                     <li className="mr-1.5 mt-2">
-                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300">
                         SpringBoot
                       </div>
                     </li>
                     <li className="mr-1.5 mt-2">
-                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300">
                         Redis
                       </div>
                     </li>
                     <li className="mr-1.5 mt-2">
-                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300">
                         SQL
                       </div>
                     </li>
                     <li className="mr-1.5 mt-2">
-                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                        APIs
-                      </div>
-                    </li>
-                    <li className="mr-1.5 mt-2">
-                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300">
                         MySQL
                       </div>
                     </li>
                     <li className="mr-1.5 mt-2">
-                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                        Mongodb
+                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300">
+                        RESTful APIs
+                      </div>
+                    </li>
+                    <li className="mr-1.5 mt-2">
+                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300">
+                        MongoDB
+                      </div>
+                    </li>
+                    <li className="mr-1.5 mt-2">
+                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300">
+                        Kafka
                       </div>
                     </li>
                   </ul>
@@ -160,7 +164,7 @@ const Experience = () => {
                       </a>
                     </div>
                   </h3>
-                  <div className="mt-2 text-sm leading-normal text-justify">
+                  <div className="mt-2 text-sm leading-normal text-left">
                     Contributed to CRM projects including Netmeds and Campa-Cola, driving architecture, execution, and delivery.
                     Developed ticketing workflows via App, Email, and third-party platforms with RESTful API integrations.
                     Built smart ticket assignment and reassignment with escalation handling and capacity-based distribution.
@@ -265,7 +269,7 @@ const Experience = () => {
                       </a>
                     </div>
                   </h3>
-                  <div className="mt-2 text-sm leading-normal text-justify">
+                  <div className="mt-2 text-sm leading-normal text-left">
                     Currently working on Enhancement of TIA Portal for new versions, providing unrestricted access to digitalized automation services, from planning to operation.
                     Develop multi-document feature for PLCs, automating data splitting into two files upon relocation.
                     Implemented reflection of fingerprint changes in PLC workspace upon user-defined modifications. Integrated this feature to update data in previously created files and enable splitting upon relocation.
