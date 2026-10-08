@@ -53,7 +53,7 @@ const Archive = () => {
             <tbody>
               <tr className="border-b border-slate-300/10 last:border-none">
                 <td className="py-4 pr-4 align-top text-sm">
-                  <div className="translate-y-px">2025</div>
+                  <div className="translate-y-px">2026</div>
                 </td>
                 <td className="py-4 pr-4 align-top font-semibold leading-snug text-slate-200">
                   <div>
@@ -165,7 +165,7 @@ const Archive = () => {
               </tr>
               <tr className="border-b border-slate-300/10 last:border-none">
                 <td className="py-4 pr-4 align-top text-sm">
-                  <div className="translate-y-px">2024</div>
+                  <div className="translate-y-px">2026</div>
                 </td>
                 <td className="py-4 pr-4 align-top font-semibold leading-snug text-slate-200">
                   <div>
@@ -271,7 +271,7 @@ const Archive = () => {
               </tr>
               <tr className="border-b border-slate-300/10 last:border-none">
                 <td className="py-4 pr-4 align-top text-sm">
-                  <div className="translate-y-px">2024</div>
+                  <div className="translate-y-px">2025</div>
                 </td>
                 <td className="py-4 pr-4 align-top font-semibold leading-snug text-slate-200">
                   <div>
