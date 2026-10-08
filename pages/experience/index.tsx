@@ -143,7 +143,7 @@ const Experience = () => {
                       >
                         <span className="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                         <span>
-                          Assistant Manager (Graduate Engineer Trainee) {" . "}
+                          Software Developer {" . "}
                           <span className="inline-block">
                             Jio Platforms Ltd. (JPL){" "}
                             <svg
